@@ -1,1 +1,0 @@
-// Rental accommodation data

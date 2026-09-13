@@ -1,1 +1,5 @@
-Ballerina.toml goes here
+[package]
+org = "dsa612s"
+name = "library_service"
+version = "0.1.0"
+distribution = "2201.12.8"

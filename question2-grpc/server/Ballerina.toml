@@ -1,1 +1,8 @@
-# Ballerina server project configuration
+[package]
+org = "dsa"
+name = "service"
+version = "0.1.0"
+distribution = "2201.12.8"
+
+[build-options]
+observabilityIncluded = true
